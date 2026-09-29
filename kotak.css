@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(199, 136, 136);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    gap: 20px;
+    padding: 50px;
+}
+.kotak{
+    background-color: rgb(230, 159, 186);
+    border-radius: 8px solid#d693aa;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+    padding: 70px;
+    display: flex;
+    justify-content: space-between;
+}

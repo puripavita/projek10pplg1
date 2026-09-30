@@ -1,0 +1,31 @@
+.body {
+  background-color: white;
+}
+.header {
+  background-color: silver;
+  text-align: center;
+  color: white;
+  padding: 20px;
+}
+.nav {
+  background-color: rgb(180, 165, 165);
+  text-align: center;
+  color: white;
+}
+.main {
+  background-color: rgb(145, 141, 141);
+  padding: 30px;
+}
+.article {
+  background-color: rgb(124, 120, 120);
+  text-align: center;
+}
+.article2 {
+  background-color: rgb(124, 120, 120);
+  text-align: center;
+}
+.footer {
+  background-color: silver;
+  text-align: center;
+  padding: 20px;
+}
